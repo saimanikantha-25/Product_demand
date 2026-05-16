@@ -11,6 +11,5 @@ venv/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Large data and generated files
-data/*.csv
+# Large generated files
 output/
