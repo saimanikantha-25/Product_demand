@@ -5,10 +5,11 @@
       "use": "@vercel/static"
     }
   ],
-  "routes": [
+  "redirects": [
     {
-      "src": "/(.*)",
-      "dest": "/index.html"
+      "source": "/(.*)",
+      "destination": "https://share.streamlit.io/saimanikantha-25/Product_demand/main/app.py",
+      "permanent": false
     }
   ]
 }
