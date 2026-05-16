@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Large data and generated files
+data/*.csv
+output/
